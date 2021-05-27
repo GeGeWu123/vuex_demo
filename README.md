@@ -4,7 +4,8 @@
 
 
 # 系统介绍
-Todos是一个vuex demo, 使用store存储公共数据，涵盖state、mutation、action、getter的详细注释。与此demo相对应的还有vuex从入门到实战的图文笔记：https://blog.csdn.net/weixin_43361722/category_10837659.html ，里面详细记录了每一个功能的实现以及注意点可以参考。
+Todos是一个vuex demo, 使用store存储公共数据，涵盖state、mutation、action、getter的详细注释。
+与此demo相对应的还有vuex从入门到实战的图文笔记：https://blog.csdn.net/weixin_43361722/category_10837659.html ，里面详细记录了每一个功能的实现以及注意点可以参考。
 
 # 效果图
 
